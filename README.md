@@ -57,7 +57,6 @@ A smart system that:
    - App sends `"off"` → LED forces OFF for 0.5s  
    - Automatically returns to AUTO mode  
 
-![State Diagram](https://i.imgur.com/uJYrZ0d.png)
 
 ---
 
@@ -102,7 +101,7 @@ if(currentMode == AUTO) {
     client.publish(topic, "object"); 
   }
 }
-
+```
 Arduino IDE with boards:
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
