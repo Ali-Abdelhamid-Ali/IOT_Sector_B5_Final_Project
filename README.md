@@ -17,7 +17,6 @@ A smart system that:
 ✅ **Switches automatically** between manual/auto modes  
 ✅ **Publishes real-time alerts** to any MQTT client  
 
-![System Diagram](https://i.imgur.com/ZLQjJyD.png)  
 *Hardware: ESP8266 • IR Sensor • LED • Relay Module*
 
 ---
